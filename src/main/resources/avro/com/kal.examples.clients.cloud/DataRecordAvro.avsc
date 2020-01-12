@@ -1,0 +1,7 @@
+ {"namespace": "com.kal.examples.clients.cloud",
+ "type": "record",
+ "name": "DataRecordAvro",
+ "fields": [
+    {"name": "count", "type": "long"}
+ ]
+ }
